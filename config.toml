@@ -1,0 +1,5 @@
+baseURL = "http://www.gwqjc.com/"
+languageCode = "zh-cn"
+title = "高强度加班,不如高卧且加餐"
+theme = "LeaveIt"
+canonifyurls = "true"
